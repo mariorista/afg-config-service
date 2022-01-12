@@ -1,0 +1,7 @@
+name: skerdilajd
+source.base-url:
+    a: https://www.soccerpunter.com
+    b: https://us.soccerway.com
+    c: https://www.xscores.com
+    d: https://www.bari91.com
+minWeekPlayed: 4
