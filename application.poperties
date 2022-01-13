@@ -31,3 +31,9 @@ spring.jpa.hibernate.ddl-auto=validate
 
 #logging.level.org.springframework.jdbc.core.JdbcTemplate=DEBUG
 #logging.level.org.springframework.jdbc.core.StatementCreatorUtils=TRACE
+
+source.base-url.a=https://www.soccerpunter.com
+source.base-url.b=https://us.soccerway.com
+source.base-url.c=https://www.xscores.com
+source.base-url.d=https://www.bari91.com    
+minWeekPlayed=4
